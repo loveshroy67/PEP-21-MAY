@@ -4,7 +4,8 @@
 ## 👨‍🎓 Student Details
 
 - Name: Lovesh Roy
-- Roll Number: YOUR_ROLL_NUMBER
+- Roll Number: 53
+- Registration: 12323021
 
 ---
 
