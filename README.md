@@ -154,15 +154,29 @@ Running Docker Containers
 Add screenshot of:
 
 docker ps
-Working Application
+<img width="680" height="92" alt="Docker ps" src="https://github.com/user-attachments/assets/5a47b2ca-f52e-4dd9-828f-0f98df8bfbe6" />
+
+
 
 Add screenshots of:
 
 Frontend running
+<img width="1280" height="800" alt="Frontend running" src="https://github.com/user-attachments/assets/20fdca18-1f34-422f-8348-430a6287a30e" />
+
+
 Backend API running
+<img width="1070" height="299" alt="Backend running" src="https://github.com/user-attachments/assets/82e94a18-2ba1-44a3-a958-bdb25ee10758" />
+
+
 MongoDB connection
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/c0877310-413e-45bf-b220-59b5b700d782" />
+
 Docker Desktop containers
+<img width="1280" height="800" alt="Docker containers" src="https://github.com/user-attachments/assets/87982001-cc40-485d-9ee3-7c88284b4607" />
+
 Render deployed backend
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/a405fd78-f615-4a65-879e-ef5b44fd2b59" />
+
 
 # API Health Check
 
